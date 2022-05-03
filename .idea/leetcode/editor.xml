@@ -25,6 +25,39 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[剑指 Offer 12]矩阵中的路径.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[剑指 Offer 12]矩阵中的路径.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com剑指 Offer 12" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/[剑指 Offer 12]矩阵中的路径.py" />
+              <option name="titleSlug" value="ju-zhen-zhong-de-lu-jing-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[剑指 Offer 13]机器人的运动范围.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[剑指 Offer 13]机器人的运动范围.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com剑指 Offer 13" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/[剑指 Offer 13]机器人的运动范围.py" />
+              <option name="titleSlug" value="ji-qi-ren-de-yun-dong-fan-wei-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[剑指 Offer 14- I]剪绳子.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[剑指 Offer 14- I]剪绳子.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com剑指 Offer 14- I" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/[剑指 Offer 14- I]剪绳子.py" />
+              <option name="titleSlug" value="jian-sheng-zi-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
