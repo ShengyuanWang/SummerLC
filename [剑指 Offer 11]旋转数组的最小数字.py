@@ -41,4 +41,14 @@
 # leetcode submit region begin(Prohibit modification and deletion)
 class Solution:
     def minArray(self, numbers: List[int]) -> int:
+        l, r = 0, len(numbers)-1
+        while l < r:
+            m = l + (r-l)//2
+            if numbers[m] > numbers[r]:
+                l = m + 1
+            elif numbers[m] < numbers[r]:
+                r = m
+            else:
+                r -= 1
+        return numbers[l]
 # leetcode submit region end(Prohibit modification and deletion)
