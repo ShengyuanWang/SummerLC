@@ -7,10 +7,7 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/doc/content/[剑指 Offer 10- II]青蛙跳台阶问题.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com剑指 Offer 10- II" />
-              <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/[剑指 Offer 10- II]青蛙跳台阶问题.py" />
-              <option name="titleSlug" value="qing-wa-tiao-tai-jie-wen-ti-lcof" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -18,10 +15,7 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/doc/content/[剑指 Offer 11]旋转数组的最小数字.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com剑指 Offer 11" />
-              <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/[剑指 Offer 11]旋转数组的最小数字.py" />
-              <option name="titleSlug" value="xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -29,10 +23,7 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/doc/content/[剑指 Offer 12]矩阵中的路径.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com剑指 Offer 12" />
-              <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/[剑指 Offer 12]矩阵中的路径.py" />
-              <option name="titleSlug" value="ju-zhen-zhong-de-lu-jing-lcof" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -40,10 +31,7 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/doc/content/[剑指 Offer 13]机器人的运动范围.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com剑指 Offer 13" />
-              <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/[剑指 Offer 13]机器人的运动范围.py" />
-              <option name="titleSlug" value="ji-qi-ren-de-yun-dong-fan-wei-lcof" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -51,10 +39,7 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/doc/content/[剑指 Offer 14- II]剪绳子 II.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com剑指 Offer 14- II" />
-              <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/[剑指 Offer 14- II]剪绳子 II.py" />
-              <option name="titleSlug" value="jian-sheng-zi-ii-lcof" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -62,10 +47,7 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/doc/content/[剑指 Offer 14- I]剪绳子.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com剑指 Offer 14- I" />
-              <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/[剑指 Offer 14- I]剪绳子.py" />
-              <option name="titleSlug" value="jian-sheng-zi-lcof" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -73,10 +55,16 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/doc/content/[剑指 Offer 15]二进制中1的个数.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com剑指 Offer 15" />
-              <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/[剑指 Offer 15]二进制中1的个数.py" />
-              <option name="titleSlug" value="er-jin-zhi-zhong-1de-ge-shu-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/leetcode/src/leetcode/editor/cn/[5]最长回文子串.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/IdeaProjects/leetcode/src/leetcode/editor/cn/doc/content/[5]最长回文子串.md" />
+              <option name="path" value="$USER_HOME$/IdeaProjects/leetcode/src/leetcode/editor/cn/[5]最长回文子串.java" />
+              <option name="questionId" value="5" />
             </LeetcodeEditor>
           </value>
         </entry>
