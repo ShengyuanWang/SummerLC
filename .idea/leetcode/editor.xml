@@ -77,6 +77,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$USER_HOME$/IdeaProjects/leetcode/src/leetcode/editor/cn/[面试题 08.09]括号.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/IdeaProjects/leetcode/src/leetcode/editor/cn/doc/content/[面试题 08.09]括号.md" />
+              <option name="path" value="$USER_HOME$/IdeaProjects/leetcode/src/leetcode/editor/cn/[面试题 08.09]括号.java" />
+              <option name="questionId" value="100200" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
